@@ -1,0 +1,41 @@
+.header{
+    background-color: bisque;
+    padding-left: 10px;
+}
+
+.left {
+    justify-content: center;
+
+}
+
+}
+.right {
+    justify-content: center;
+}
+
+
+.cropped {
+    width: 200px; /* width of container */
+    height: 260px; /* height of container */
+    object-fit: cover;
+    border: 3px solid black;
+    border-radius: 80%;
+}
+
+.navbar{
+    padding-left: 10px;
+}
+
+body{
+    background-color: #e3f2fd;
+}
+
+.descript{
+    padding-left: 10px;
+    justify-content: center;
+    
+}
+                 
+.card{
+    margin: 20px;
+}
