@@ -4,12 +4,13 @@
 }
 
 .left {
-    float:left;
+    justify-content: center;
+
 }
 
 }
 .right {
-    float: right;
+    justify-content: center;
 }
 
 
@@ -31,7 +32,7 @@ body{
 
 .descript{
     padding-left: 10px;
-    float:left;
+    justify-content: center;
     
 }
                  
