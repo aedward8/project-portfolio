@@ -1,7 +1,27 @@
+.header{
+    background-color: bisque;
+    max-width: 100%;
+}.
+
 .left {
     float:left;
 }
 
+}
 .right {
     float:left;
 }
+
+.cropped {
+    width: 200px; /* width of container */
+    height: 260px; /* height of container */
+    object-fit: cover;
+    border: 3px solid black;
+    border-radius: 80%;
+}
+
+.navbar{
+    max-width: 100%;
+    
+}
+
