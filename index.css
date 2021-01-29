@@ -1,7 +1,7 @@
 .header{
     background-color: bisque;
-    max-width: 100%;
-}.
+    padding-left: 10px;
+}
 
 .left {
     float:left;
@@ -9,8 +9,9 @@
 
 }
 .right {
-    float:left;
+    float: right;
 }
+
 
 .cropped {
     width: 200px; /* width of container */
@@ -21,7 +22,20 @@
 }
 
 .navbar{
-    max-width: 100%;
-    
+    padding-left: 10px;
 }
 
+body{
+    background-color: #e3f2fd;
+}
+
+.descript{
+    padding-left: 10px;
+    float:left;
+    
+}
+                 
+.card{
+    margin: 20px;
+    
+}
