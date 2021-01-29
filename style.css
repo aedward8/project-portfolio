@@ -13,6 +13,9 @@
     justify-content: center;
 }
 
+nav{
+   background-color: #e3f2fd;
+}
 
 .cropped {
     width: 200px; /* width of container */
@@ -32,8 +35,12 @@ body{
 
 .descript{
     padding-left: 10px;
+<<<<<<< HEAD:index.css
     justify-content: center;
     
+=======
+    justify-content: center;   
+>>>>>>> Alex:style.css
 }
                  
 .card{
