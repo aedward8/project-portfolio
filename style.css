@@ -5,10 +5,8 @@
 
 .left {
     justify-content: center;
-
 }
 
-}
 .right {
     justify-content: center;
 }
@@ -36,10 +34,8 @@ body{
 .descript{
     padding-left: 10px;
     justify-content: center;   
-
 }
                  
 .card{
     margin: 20px;
-    
 }
