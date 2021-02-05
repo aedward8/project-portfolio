@@ -1,3 +1,4 @@
+
 .header{
     background-color: bisque;
     padding-left: 10px;
@@ -5,6 +6,7 @@
 }
 
 .left {
+    align-content: center;
     position: relative;
     left: 11%;
 }
@@ -51,4 +53,26 @@ body{
 
 .override{
     color:black;
+}
+
+/* min-width is mobile first design
+ & max-width of desktop first design */
+
+ /* so photo isnt getting written over*/
+@media (max-width: 990px) {
+    .break {
+        flex-basis: 100%;
+        height: 0;
+      }
+}
+
+/* change text center in header*/
+@media (max-width: 767px) {
+    .left{
+        left: 25%;;
+    }
+    .right {
+        left: 25%;
+    }
+
 }
