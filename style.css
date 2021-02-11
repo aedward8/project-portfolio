@@ -6,9 +6,9 @@
 }
 
 .left {
-    align-content: center;
-    position: relative;
-    left: 11%;
+    padding-left: 11%;
+    /* position: relative; */
+    /* left: 11%; */
 }
 
 
